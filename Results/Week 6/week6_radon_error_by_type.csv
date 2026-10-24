@@ -1,0 +1,14 @@
+Type,Count,MAE,Median
+MotorCycle,114,6.18,4.42
+SUV,55,3.09,2.1
+AutoRicksaw,25,7.58,2.43
+Sedan,16,3.47,2.6
+Van,8,1.26,0.4
+Truck,5,0.73,0.62
+Tipper,5,0.95,0.5
+PickUp,5,1.49,1.04
+Container,2,0.66,0.66
+Tanker,2,0.36,0.36
+Auto3WCargo,1,1.6,1.6
+Bus,1,1.2,1.2
+Trailer,1,0.02,0.02
